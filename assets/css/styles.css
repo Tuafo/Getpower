@@ -1,0 +1,103 @@
+.nav.navbar-nav.mr-auto {
+}
+
+.nav-item {
+  font-family: Poppins, sans-serif;
+}
+
+#navbar-logo {
+  width: 80px;
+}
+
+a {
+  text-decoration: none;
+  border-color: rgba(255,255,255,0);
+}
+
+.h1, h1 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 36px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  height: 800px;
+}
+
+#spn-banner-1 {
+  font-size: 28px;
+  color: #fff;
+}
+
+#spn-banner-2 {
+  font-size: 35px;
+  color: #fff;
+}
+
+#spn-banner-3 {
+  color: #00dd87;
+  font-size: 43px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  font-family: 'Poppins';
+  background-color: #00dd87;
+  color: #ffffff;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  border-radius: 20px;
+  border-color: #00dd87;
+}
+
+.parallax-banner {
+  background-image: url(../../assets/img/banner.jpg);
+  min-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#spn-banner-4 {
+  font-size: 28px;
+  color: #fff;
+}
+
+.flex-column.justify-content-center.align-items-center.banner-content {
+  background-image: url(../../assets/img/banner.jpg);
+  min-height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fundo-retangulos-topo {
+}
+
+.fundo-topo {
+}
+
+.mapa {
+  width: 500px;
+}
+
+@media (min-width: 300px) {
+  .col-md-6 {
+  }
+}
+
+.img-fundo-sec2 {
+  height: 388px;
+}
+
+.content-sec3 {
+}
+
+.text-sec3 {
+  height: 180px;
+}
+
+.imgtopo-sec3 {
+  height: 300px;
+}
+
